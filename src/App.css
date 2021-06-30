@@ -1,0 +1,16 @@
+.toggle input { background: #22C55E; }
+.toggle input:checked { background: #EF4444; }
+
+.toggle .label-left { color: #22C55E; }
+.toggle .label-right { color: #222; }
+
+.toggle input:checked ~ .label-left { color: #222; }
+.toggle input:checked ~ .label-right { color: #EF4444; }
+
+.icon {
+  display: inline-flex;
+  width: 16px;
+  height: 16px;
+  vertical-align: -2px;
+  cursor: pointer;
+}
