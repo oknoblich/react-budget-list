@@ -1,0 +1,2 @@
+.toggle input{background:#22c55e}.toggle input:checked{background:#ef4444}.toggle .label-left{color:#22c55e}.toggle .label-right,.toggle input:checked~.label-left{color:#222}.toggle input:checked~.label-right{color:#ef4444}.icon{display:inline-flex;width:16px;height:16px;vertical-align:-2px;cursor:pointer}
+/*# sourceMappingURL=main.f532d1d7.chunk.css.map */
